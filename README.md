@@ -25,7 +25,7 @@ pip install dbt-postgres
 dbt --version
 ```
 
-Con el siguiente comando se configura la db
+Con el siguiente comando se crea el repo y se configura la db
 
 ```bash
 dbt init db_postgres

@@ -6,6 +6,6 @@ sources:
     database: mlops
     schema: source
     tables:
-      - name: scores
+      - name: ratings
       - name: movies
-      - name: users
+      - name: user
